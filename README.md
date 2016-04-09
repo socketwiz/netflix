@@ -1,3 +1,11 @@
+I often like to see a trailer before committing to a show but Netflix has
+decided we don't need them.  This bookmarklet will provide a link that will
+search IMDB for the title you have selected.  You can then click the link and
+watch the trailer on IMDB.  To get this to work, hover over a thumbnail on
+Netflix, then click on the down arrow at the bottom of the thumbnail to display
+the overview.  From here you can click on the bookmarklet and it will add
+a button next to the MY LIST checkbox button labeled IMDB Search.  You can then
+click this button and it will open a new window containing the IMDB search.  
 
 ### For debugging
 Rather than updating your bookmark for every edit, it's easier to pull the code
